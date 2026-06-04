@@ -1,1 +1,1 @@
-Claude and ollama were already installed in my system.
+Claude and ollama are already installed in my system.
